@@ -1,5 +1,4 @@
 # Sola Chemicals E-commerce Platform
-![](https://hackatime-badge.hackclub.com/U07EAVBK85Q/sola-chemicals-ecommerce-platform) <br>
 A comprehensive e-commerce solution tailored specifically for chemical products and supplies. This platform provides a secure, efficient, and user-friendly experience for both customers and administrators in the chemical industry.
 
 ## 🚀 Features
